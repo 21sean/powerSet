@@ -1,2 +1,2 @@
 # powerSet
-powersets, lists, and printing them
+powersets, lists, and printing them. Use pycharm.
